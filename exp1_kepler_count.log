@@ -1,0 +1,11 @@
+[A] critical eq verified: n=500, fail=0, maxerr=3.36e-08
+[B] count formula vs exact roots: n=20000, mismatch=0
+[C] cylinder law: n=2000, unique-root fails=0, min f'(u)=0.001345 (>0 expected)
+[D] threshold structure (double root + count jump 2): n=600, fail=0
+[E1] principal branch = global min: n=20000, fail=0
+[E1b] tie M=pi mod 2pi: two symmetric minimizers, fail=0
+[E2] naive start u0=M: n=20000, converge=19496, wrong-min=11447 (57.23%), no-converge=504
+[F] region classification: jumps=64 vs analytic=64; max loc err=9.93e-04
+[G] root sep ~ C*sqrt(delta): C_num=0.8968 vs C_th=0.8967 (delta=1e-12), rel err 1.08e-04
+[G] distance value is 1-Lipschitz in query: n=2000, violations=0
+total time 131.1s, part_f ok=True
