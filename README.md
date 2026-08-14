@@ -45,6 +45,11 @@ verified numerically here.
   Newton from cylinder point u₀ = 0 → **72.50% wrong**, 16.74% no convergence.
 - e\* (first eccentricity with ≥ 5 stationary points) = **4.603338848752**.
 
+## Repository
+
+This code is published at <https://github.com/lpl8848/helix-kepler>.
+
 ## License
 
 MIT (see `LICENSE`).
+
